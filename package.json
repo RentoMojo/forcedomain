@@ -1,5 +1,5 @@
 {
-  "name": "forcedomain",
+  "name": "@rentomojo/forcedomain",
   "version": "0.5.1",
   "description": "forcedomain is a middleware for Connect and Express that redirects any requests to a default domain.",
   "contributors": [
